@@ -33,14 +33,19 @@
 - Add lockscreen widget transperency slider
 - Add developer setting to set the default GPU renderer
 - Add feature to spoof user selected apps
+- Rework edge light feature
 - Update pixel feature list
+- Color coded battery indication
 - update configs for AiAi
+- Allow limiting minimal % for auto brightness
+- Redesign the overview buttons and drop compact design
 - Rearrange lunaris hub settings
 - Add quick qs pulldown
 - Drop prebuilt BCR
 - Fix adaptive playback 
 - Add pixel navbar animation for cts
 - add among us statusbar icon
+- Add bthelper for Airpods battery stats support
 - Limit aod to 60hz
 - Drop Google files and switch to AOSP documentUI
 - Drop prebuilt Gmail 
