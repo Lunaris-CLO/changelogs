@@ -19,6 +19,8 @@
 - Introduce MusicCard in VolumePanel
 - Add Navbar styles
 - Add status bar lyric
+- Redesign About Phone
+- Improve lock icon color
 - Add separate QS colored icons
 - Add fluid notification style
 - Modernize omnijaw weather views
