@@ -11,6 +11,34 @@
 
 ## **Source Changelog** ##
 
+**29th January 2025**
+
+```bash
+- Updated System to LA.QSSI.15.0.r1-13400-qssi.0.
+- Add Pixel Quick tap (Give permission manually from app info > Quick tap)
+- Fix Ringer switch option 
+- Add some display cutouts 
+- Partially fix white-on-white LyricView issue
+- Use meterial u design in launcher3 popup menu
+- Add wannabe OOS swipe animation in settings homepage
+- Update bootanimation 
+- Improve ls widget integration 
+- Update pif for integrity
+- Developer options toast insulter
+- Rework lockscreen shortcuts icons colors
+- Make Disable FaceUnlock Lockouts optional
+- Switch to malware protected Cloudflare DNS
+- Add Control D DNS as a private DNS Provider
+- Added beauty font (font name is beauty)
+- Fix the potential memory leak issue caused by setExtension
+- Vibrate on successful authentication
+- Fix Dashboard and highlight cards colors
+- Prevent pixel launcher crash on higher dpi
+- Remove Launcher3 all app Searchbar hint text
+- Optimized UI Performance and Rendering
+
+```
+
 **21st January 2025**
 
 ```bash
