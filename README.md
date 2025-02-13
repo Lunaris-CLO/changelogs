@@ -11,6 +11,44 @@
 
 ## **Source Changelog** ##
 
+**13th February 2025**
+
+```bash
+- Updated System to LA.QSSI.15.0.r1-13900-qssi.0.
+- Update media libs from 13800-WAIPIO.0
+- Drop some prebuilt apps
+- Redesign Lunaris lab
+- Added lockscreen charging indicator
+- Data icon style
+- Media thumb style
+- Add outline battery style
+- Add option to choose between native and LMO freeform
+- Expose Omnijaw weather activity menu in settings 
+- Make AOSP native freeform windows always-on-top
+- Add option to disable Data Disabled Indicator icon
+- Add hideMyApp list
+- Drop some extra boost changes for battery
+- Add volume sound feedback option 
+- Add aod avater picture option
+- Match legacy toast view with SystemUI
+- Redesign Accessibility Menu
+- Add more prebuilt header img
+- Tune new biometric dialog UI
+- Allow nexuslauncher to call search result intents
+- Decrease QS Widgets media art fade
+- Map Nintendo ProCon like stock does
+- Enable wireless Xbox 360 controller support
+- Remove default aspect ratio limit for old apps
+- Add seekbar option to change nowbar height 
+- Make ios clock follow monet color
+- Charging control logic improvement
+- Remove bouncer delay when face unlock is enabled
+- Switch to our gms_certified_props repo fork for easy update
+- Silence some error and log spams
+- * Various fixes and improvements 
+
+```
+
 **29th January 2025**
 
 ```bash
